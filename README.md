@@ -7,7 +7,7 @@ This project predicts whether an employee will leave an organization (employee t
 ---
 
 ## 📊 Dataset
-The dataset used is **HR.csv** which contains employee records with the following features:
+The dataset used is **employee_data.csv** which contains employee records with the following features:
 
 - `satisfaction_level` → Employee satisfaction (0–1 scale)
 - `last_evaluation` → Last performance evaluation (0–1 scale)
