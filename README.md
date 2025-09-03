@@ -87,16 +87,16 @@ The dataset used is **employee_data.csv** which contains employee records with t
 ```
 📁 Employee-Turnover-Prediction
  ┣ 📄 Employee Turnover Prediction.ipynb
- ┣ 📄 HR.csv
+ ┣ 📄 employee_data.csv
  ┣ 📄 README.md
- ┣ 📄 requirements.txt
 ```
 
 ---
 
 ## 👤 Author
-Developed by **Your Name**  
-📧 your.email@example.com  
-🌐 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+Developed by **Chinni Krishna**  
+📧 allakulachinnikrishna@gmail.com  
+🌐 https://www.linkedin.com/in/chinni-krishna-allakula
+
 
 ---
